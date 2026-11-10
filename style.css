@@ -34,3 +34,5 @@
 .intro-photo{overflow:hidden;border-radius:12px;border:1px solid var(--line)}.intro-photo img{transform:scale(1.25);transform-origin:65% 42%;border:0;border-radius:0}
 
 .project-award{font-size:13px;font-weight:600;color:var(--green);background:#edf2ea;padding:7px 10px;border-radius:6px;white-space:nowrap}.project-heading{flex-wrap:wrap}
+
+.research-cover{background:#fff}.research-cover img{object-fit:contain}
